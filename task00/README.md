@@ -12,7 +12,8 @@ Follow the instruction below to build the attached C++ code. This code will disp
 
 === (paste the screenshot image here`![](image file name)` ) === 
 
-![output](output.png)
+![output](output image.png)
+
 
 
 ----
