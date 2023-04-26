@@ -56,5 +56,6 @@ cmake-build-release
 build
 
 external/glfwlib
+external/eigen
 
 */main_ans.cpp
