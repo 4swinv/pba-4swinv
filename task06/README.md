@@ -40,7 +40,6 @@ Write a few lines of code around `line #52` to compute hessian accurately. After
 ![problem2](problem2.png)
 
 Write down the converged minimum value of the energy by updating the text below.
-***minimum energy of the system = -96.7257***
 
 ## After Doing the Assignment
 
