@@ -162,7 +162,7 @@ void inflate(
     }
   }
   // Do not forget to write one line of code here
-  // -g(x) in dW 
+  // -g(x) in dW, constraint: volume - volume_trg = 0
   dW(num_vtx * 3) -= (volume - volume_trg);
   // -------------------------------------------------
   // Do not change below
